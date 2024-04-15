@@ -14,6 +14,6 @@ EasyStay is a modern hotel booking web application designed to streamline the bo
 - **Front-end:** React, HTML, CSS, JavaScript, Bootstrap
 
 ## View Code
-Explore the code on [GitHub](https://github.com/Manish-Mate/EasyStay/new/main?filename=README.md).
+Explore the code on [GitHub](https://github.com/Manish-Mate/EasyStay/tree/main).
 
 
